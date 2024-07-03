@@ -15,10 +15,6 @@ This project involves creating data visualizations for Battlegrounds Mobile Indi
 - [Contributing](#contributing)
 - [Contact](#contact)
 
-## Demo
-
-You can view a live demo of the project [here]().
-
 ## Project Description
 
 The Battlegrounds Mobile India Data Visualization project leverages Power BI to create interactive and insightful dashboards that help players and analysts understand various aspects of the game. This project is designed to extract meaningful patterns and trends from in-game data, which can be used to improve performance and strategy.
@@ -57,3 +53,10 @@ To view or modify the Power BI reports, follow these steps:
 2. Clone the repository:
    ```sh
    git clone https://github.com/the-anuj-23/BATTLEGROUNDS-MOBILE-INDIA-WEAPONS-STATS-DATA-VISAULIZATION.git
+
+## Contact
+ANUJ SUTHAR - anujsuthar242@gmail.com
+
+Linkedin - https://www.linkedin.com/in/anuj-suthar-583995210/
+
+Github - https://github.com/the-anuj-23/
